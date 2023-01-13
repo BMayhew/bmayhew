@@ -24,6 +24,7 @@
 * [Fiddler](https://www.telerik.com/download/fiddler) - HTTP Proxy works really well on Windows
 * [BurpSuite](https://portswigger.net/burp/) - used to monitor HTTP traffic bug also has built in Web Vulnerability Scans for security testing
 * [Jmeter](https://jmeter.apache.org/) - Free to use performance testing application
+* [Github Actions](For all your CI/CD needs!)
 
 ---
 

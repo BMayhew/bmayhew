@@ -31,7 +31,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I run a subset of tests within Playwright Test Runner using grep functionality?](https://playwrightsolutions.com/how-do-i-run-specific/)
+- [How do I run a subset of tests with Playwright Test Runner using grep functionality?](https://playwrightsolutions.com/run-a-subset-of-tests-with-grep-and-grep-invert-in-package-json/)
 - [How do I access the browser clipboard with Playwright?](https://playwrightsolutions.com/how-do-i-access-the-browser-clipboard-with-playwright/)
 - [Is it possible to get the current Playwright test name while the test is running?](https://playwrightsolutions.com/untitled-2/)
 - [Is it possible in Playwright to conditionally click an element depending on which one is visible?](https://playwrightsolutions.com/is-it-possible-in-playwright-to-conditionally-click-an-element-depending-on-which-one-is-present/)

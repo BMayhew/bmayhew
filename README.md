@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I test a website that has a page redirect with Playwright?](https://playwrightsolutions.com/how-do-i-test-a-website-that-has-a-page-redirect-with-playwright/)
 - [How do you send the details of a Playwright Test run to a Slack channel via Github Action? - Part 2](https://playwrightsolutions.com/how-do-i-send-the-details-of-test-results-to-slack/)
 - [Is it possible to get a parsable file with the list of all passed or failed tests after a Playwright Test run?](https://playwrightsolutions.com/is-it-possible-to-get-a-list-of-all-passed-or-failed-tests-after-a-playwright-test-run/)
 - [How do I run a subset of tests with Playwright Test Runner using grep functionality?](https://playwrightsolutions.com/run-a-subset-of-tests-with-grep-and-grep-invert-in-package-json/)
 - [How do I access the browser clipboard with Playwright?](https://playwrightsolutions.com/how-do-i-access-the-browser-clipboard-with-playwright/)
-- [Is it possible to get the current Playwright test name while the test is running?](https://playwrightsolutions.com/untitled-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

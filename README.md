@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you handle combining HTML, Json reports, and a Slack Message after a Playwright test is run with the --shard command?](https://playwrightsolutions.com/how-do-you-handle-combining-html-json-reports-and-a-slack-message-after-a-playwright-test-is-run-with-the-shard-command/)
 - [Hands on Test Automation with Playwright 99 Minute Workshop](https://playwrightsolutions.com/hands-on-test-automation-with-playwright-99-minute-workshop/)
 - [How do you locate the parent of an element with Playwright?](https://playwrightsolutions.com/how-do-you-locate-the-parent-of-an-element-with-playwright/)
 - [How do I test a website that has a page redirect with Playwright?](https://playwrightsolutions.com/how-do-i-test-a-website-that-has-a-page-redirect-with-playwright/)
 - [How do you send the details of a Playwright Test run to a Slack channel via Github Action? - Part 2](https://playwrightsolutions.com/how-do-i-send-the-details-of-test-results-to-slack/)
-- [Is it possible to get a parsable file with the list of all passed or failed tests after a Playwright Test run?](https://playwrightsolutions.com/is-it-possible-to-get-a-list-of-all-passed-or-failed-tests-after-a-playwright-test-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

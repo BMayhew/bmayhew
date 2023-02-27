@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Utilizing the toHaveAttribute&lpar;&rpar; method when making assertions in Playwright to check if a button is enabled or disabled.](https://playwrightsolutions.com/utilizing-the-tohaveattribute-method-when-making-assertions-in-playwright-to-check-if-a-button-is-enabled-or-disabled/)
 - [How do you handle combining HTML, Json reports, and a Slack Message after a Playwright test is run with the --shard command?](https://playwrightsolutions.com/how-do-you-handle-combining-html-json-reports-and-a-slack-message-after-a-playwright-test-is-run-with-the-shard-command/)
 - [Hands on Test Automation with Playwright 99 Minute Workshop](https://playwrightsolutions.com/hands-on-test-automation-with-playwright-99-minute-workshop/)
 - [How do you locate the parent of an element with Playwright?](https://playwrightsolutions.com/how-do-you-locate-the-parent-of-an-element-with-playwright/)
 - [How do I test a website that has a page redirect with Playwright?](https://playwrightsolutions.com/how-do-i-test-a-website-that-has-a-page-redirect-with-playwright/)
-- [How do you send the details of a Playwright Test run to a Slack channel via Github Action? - Part 2](https://playwrightsolutions.com/how-do-i-send-the-details-of-test-results-to-slack/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

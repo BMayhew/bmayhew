@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 1 - Basics of API Testing GET Request With and Without Authorization](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-1-basics-of-api-testing-get/)
 - [The Definitive Guide to API Test Automation With Playwright: Introduction](https://playwrightsolutions.com/is-it-possible-to-do-api-testing-with-playwright-the-definitive/)
 - [Utilizing the toHaveAttribute&lpar;&rpar; method when making assertions in Playwright to check if a button is enabled or disabled.](https://playwrightsolutions.com/utilizing-the-tohaveattribute-method-when-making-assertions-in-playwright-to-check-if-a-button-is-enabled-or-disabled/)
 - [How do you handle combining HTML, Json reports, and a Slack Message after a Playwright test is run with the --shard command?](https://playwrightsolutions.com/how-do-you-handle-combining-html-json-reports-and-a-slack-message-after-a-playwright-test-is-run-with-the-shard-command/)
 - [Hands on Test Automation with Playwright 99 Minute Workshop](https://playwrightsolutions.com/hands-on-test-automation-with-playwright-99-minute-workshop/)
-- [How do you locate the parent of an element with Playwright?](https://playwrightsolutions.com/how-do-you-locate-the-parent-of-an-element-with-playwright/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

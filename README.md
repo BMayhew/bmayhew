@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 3 - Debugging API Tests](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-3-debugging-api-tests-with-vs-code/)
 - [Is it possible to run only Playwright Tests that changed in GitHub actions on a pull request?](https://playwrightsolutions.com/is-it-possible-to-run-only-playwright-tests-that-changed-on-a/)
 - [Enabling pw:api debugging in Playwright Test for VSCode](https://playwrightsolutions.com/enabling-pw-api-in-playwright-test-for-visual-studio-code/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 2 - Adding More In-Depth Checks](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-2-adding-more-in-depth-checks/)
 - [What&#39;s the easiest way to only re-run failures after the Playwright Tests are finished?](https://playwrightsolutions.com/whats-the-easiest-way-to-only-re-run-failures-after-the-playwright-test-is-finished/)
-- [The Definitive Guide to API Test Automation With Playwright: Part 1 - Basics of API Testing GET Request With and Without Authorization](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-1-basics-of-api-testing-get/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

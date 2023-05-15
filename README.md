@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 5 - Calculating API Endpoint Coverage](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-5-calculating-endpoint-coverage/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 4 - Handling Headers and Authentication](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-4-handling-headers-and-authentication/)
 - [How can I create a locator from a link with a unique href in Playwright?](https://playwrightsolutions.com/how-can-i-create-a-locator-from-a-link-with-a-unique-href-in-playwright/)
 - [How do I mock HTTP network traffic for a specific response via in Playwright?](https://playwrightsolutions.com/how-do-i-intercept-network-traffic-and-save-specific-values-from-http-requests/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 3 - Debugging API Tests](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-3-debugging-api-tests-with-vs-code/)
-- [Is it possible to run only Playwright Tests that changed in GitHub actions on a pull request?](https://playwrightsolutions.com/is-it-possible-to-run-only-playwright-tests-that-changed-on-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

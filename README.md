@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Community Highlight: Luc Gagan | Ray.run](https://playwrightsolutions.com/playwright-community-highlight/)
 - [Creating custom expects in Playwright: how to write your own assertions](https://playwrightsolutions.com/creating-custom-expects-in-playwright-how-to-write-your-own-assertions/)
 - [How do you define an apiURL along with the baseURL in a Playwright Test?](https://playwrightsolutions.com/how-do-you-define-an-apiurl-along-with-the-baseurl-in-playwright/)
 - [How do you get a response value of an underlying network request when running a Playwright Test?](https://playwrightsolutions.com/get-a-response-value-of-an-underlying-network-request-when-running-a-playwright-test/)
 - [A better way to control before and after blocks with test titles](https://playwrightsolutions.com/a-better-way-to-control-before-and-after-blocks-with-test-titles-in-playwright-test/)
-- [New ❤️ Button + Playwright 1.33 &amp; 1.34 Release Video](https://playwrightsolutions.com/playwright-1-33-1-34-release-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

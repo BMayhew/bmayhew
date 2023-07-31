@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you create a dynamic goto function in Playwright?](https://playwrightsolutions.com/untitled-3/)
 - [Is it possible to change colorScheme in the middle of a Playwright test?](https://playwrightsolutions.com/is-it-possible-to-change-colorscheme-in-the-middle-of-a-playwright-tests/)
 - [Handling Multiple Login States Between Different Tests in Playwright](https://playwrightsolutions.com/handling-multiple-login-states-between-different-tests-in-playwright/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 6 - Creating a DataFactory to Manage Test Data](https://playwrightsolutions.com/the-definitive-guide-to-api-testcreating-a-datafactory-to-manage-test-data/)
 - [Playwright Community Highlight: Luc Gagan | Ray.run](https://playwrightsolutions.com/playwright-community-highlight/)
-- [Creating custom expects in Playwright: how to write your own assertions](https://playwrightsolutions.com/creating-custom-expects-in-playwright-how-to-write-your-own-assertions/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

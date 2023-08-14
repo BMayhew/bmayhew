@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 7 - Creating Helper Functions for Common tasks](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-7-creating-helper-functions-for-common-tasks/)
 - [Is it possible to override retry attempts on a specific spec file in Playwright?](https://playwrightsolutions.com/is-it-possible-to-override-retry-attempts-on-a-specific-spec-file-in-playwright-expect-poll-expect-topass/)
 - [How do you create a dynamic goto function in Playwright?](https://playwrightsolutions.com/untitled-3/)
 - [Is it possible to change colorScheme in the middle of a Playwright test?](https://playwrightsolutions.com/is-it-possible-to-change-colorscheme-in-the-middle-of-a-playwright-tests/)
 - [Handling Multiple Login States Between Different Tests in Playwright](https://playwrightsolutions.com/handling-multiple-login-states-between-different-tests-in-playwright/)
-- [The Definitive Guide to API Test Automation With Playwright: Part 6 - Creating a DataFactory to Manage Test Data](https://playwrightsolutions.com/the-definitive-guide-to-api-testcreating-a-datafactory-to-manage-test-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

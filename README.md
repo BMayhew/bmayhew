@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Set Hooks Before Or After Each Test Globally in Playwright Test?](https://playwrightsolutions.com/how-do-you-set-hooks-before-or-after-each-spec-globally-in-playwright-test/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 9 - Validating JSON Schema](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-9-validating-json-schema/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 8 - Adding ESlint, Prettier, and Husky](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-8-adding-eslint-prettier-and-husky/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 7 - Creating Helper Functions for Common tasks](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-7-creating-helper-functions-for-common-tasks/)
 - [Is it possible to override retry attempts on a specific spec file in Playwright?](https://playwrightsolutions.com/is-it-possible-to-override-retry-attempts-on-a-specific-spec-file-in-playwright-expect-poll-expect-topass/)
-- [How do you create a dynamic goto function in Playwright?](https://playwrightsolutions.com/untitled-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

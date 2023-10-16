@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 14 - Creating Custom Assertions Through Extending Expect](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-14-custom-assertions-extending-expect/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 13 - Validate API Response Against OpenAPI Spec Schema](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-13-validate-api-response-against-openapi-spec-schema/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 12 - My Top 10 Great Practices](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-12-best-practices/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 11 - Adding Multi Environment Support](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-11-adding-multi-environment-support/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 10 - Adding Unit Tests for Helpers](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-10-adding-unit-tests-for-helpers/)
-- [How do you create dynamic locators with Playwright?](https://playwrightsolutions.com/how-do-you-create-dynamic-locators-with-playwright/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

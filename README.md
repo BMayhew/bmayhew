@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 15 - Adding Test Tags to Get Targeted Feedback](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-15-adding-test-tags-to-get-targeted-feedback/)
 - [How to quickly get realistic data with Faker?](https://playwrightsolutions.com/how-to-quickly-get-realistic-data-with-faker-for-playwright-tests/)
 - [What the Hex, or How I Check Colors With Playwright](https://playwrightsolutions.com/what-the-hex-or-how-i-check-colors-with-playwright/)
 - [How To Fix: apiRequestContext.fetch: Request context disposed](https://playwrightsolutions.com/how-to-fix-apirequestcontext-fetch-request-context-disposed/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 14 - Creating Custom Assertions Through Extending Expect](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-14-custom-assertions-extending-expect/)
-- [The Definitive Guide to API Test Automation With Playwright: Part 13 - Validate API Response Against OpenAPI Spec Schema](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-13-validate-api-response-against-openapi-spec-schema/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

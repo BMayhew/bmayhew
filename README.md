@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to API Test Automation With Playwright: Part 16 - Adding CI/CD Through GitHub Actions](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-16-adding-ci-cd-through-github-actions/)
 - [How Do You Append Query Parameters To page.goto&lpar;&rpar; Using Playwright Test?](https://playwrightsolutions.com/how-do-you-append-query-parameters-to-page-goto-using-playwright-test/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 15 - Adding Test Tags to Get Targeted Feedback](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-15-adding-test-tags-to-get-targeted-feedback/)
 - [How to quickly get realistic data with Faker?](https://playwrightsolutions.com/how-to-quickly-get-realistic-data-with-faker-for-playwright-tests/)
 - [What the Hex, or How I Check Colors With Playwright](https://playwrightsolutions.com/what-the-hex-or-how-i-check-colors-with-playwright/)
-- [How To Fix: apiRequestContext.fetch: Request context disposed](https://playwrightsolutions.com/how-to-fix-apirequestcontext-fetch-request-context-disposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

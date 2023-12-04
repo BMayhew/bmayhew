@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Release 1.40 Includes Ability to Create Assertions Through Codegen Tool!](https://playwrightsolutions.com/playwright-release-1-40-includes-ability-to-create-assertions-through-codegen-tool/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 16 - Adding CI/CD Through GitHub Actions](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-16-adding-ci-cd-through-github-actions/)
 - [How Do You Append Query Parameters To page.goto&lpar;&rpar; Using Playwright Test?](https://playwrightsolutions.com/how-do-you-append-query-parameters-to-page-goto-using-playwright-test/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 15 - Adding Test Tags to Get Targeted Feedback](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-15-adding-test-tags-to-get-targeted-feedback/)
 - [How to quickly get realistic data with Faker?](https://playwrightsolutions.com/how-to-quickly-get-realistic-data-with-faker-for-playwright-tests/)
-- [What the Hex, or How I Check Colors With Playwright](https://playwrightsolutions.com/what-the-hex-or-how-i-check-colors-with-playwright/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

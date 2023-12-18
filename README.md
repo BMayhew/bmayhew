@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Ask Me Anything Debrief: Will Playwright Replace Cypress?](https://playwrightsolutions.com/playwright-ask-me-anything-debrief-will-playwright-replace-cypress/)
 - [A Feature Map Framework with Playwright for Improved UI Testing Tracking](https://playwrightsolutions.com/tracking-automated-ui-testing-using-a-feature-map-with-playwright/)
 - [Playwright Release 1.40 Includes Ability to Create Assertions Through Codegen Tool!](https://playwrightsolutions.com/playwright-release-1-40-includes-ability-to-create-assertions-through-codegen-tool/)
 - [The Definitive Guide to API Test Automation With Playwright: Part 16 - Adding CI/CD Through GitHub Actions](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-16-adding-ci-cd-through-github-actions/)
 - [How Do You Append Query Parameters To page.goto&lpar;&rpar; Using Playwright Test?](https://playwrightsolutions.com/how-do-you-append-query-parameters-to-page-goto-using-playwright-test/)
-- [The Definitive Guide to API Test Automation With Playwright: Part 15 - Adding Test Tags to Get Targeted Feedback](https://playwrightsolutions.com/the-definitive-guide-to-api-test-automation-with-playwright-part-15-adding-test-tags-to-get-targeted-feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

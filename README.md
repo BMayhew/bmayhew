@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [[Update v1.46] Is it possible to run only Playwright Tests that changed in GitHub actions on a pull request?](https://playwrightsolutions.com/update-v1-46-is-it-possible-to-run-only-playwright-tests-that-changed-in-github-actions-on-a-pull-request/)
 - [How Do I Combine Playwright HTML Reports After Running Multiple Playwright Commands?](https://playwrightsolutions.com/how-to-combine-playwright-html-reports-after-running-multiple-playwright-commands/)
 - [How Do You Scroll To The Bottom Of An Infinite Scrolling Page In A Playwright Test?](https://playwrightsolutions.com/how-do-you-scroll-to-the-bottom-of-an-infinite-scrolling-page-in-a-playwright-test/)
 - [How To Load a Custom Test Fixture or Setup Projects When Running Playwright Test Code Generator](https://playwrightsolutions.com/how-to-load-a-custom-test-fixture-or-setup-projects-when-running-playwright-test-code-generator/)
 - [How To Use Playwright&#39;s testInfo.retry To Deal With Flakey Environments](https://playwrightsolutions.com/how-to-use-playwrights-testinforetry-to-deal-with-flakey-environments/)
-- [A Few Thoughts On Flakey Tests](https://playwrightsolutions.com/a-few-thoughts-on-flakey-tests-playwright-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

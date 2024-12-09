@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Login Test With Two Factor Authentication &lpar;2FA&rpar; Enabled &lpar;TOTP&rpar;](https://playwrightsolutions.com/playwright-login-test-with-2-factor-authentication-2fa-enabled/)
 - [Playwright Solutions Challenge: Debug and figure out why the video recording isn&#39;t in the HTML report?](https://playwrightsolutions.com/playwright-solutions-challenge-debug-and-figure-out-why-the-video-recording-isnt-in-the-html-report/)
 - [[Update v1.46] Is it possible to run only Playwright Tests that changed in GitHub actions on a pull request?](https://playwrightsolutions.com/update-v1-46-is-it-possible-to-run-only-playwright-tests-that-changed-in-github-actions-on-a-pull-request/)
 - [How Do I Combine Playwright HTML Reports After Running Multiple Playwright Commands?](https://playwrightsolutions.com/how-to-combine-playwright-html-reports-after-running-multiple-playwright-commands/)
 - [How Do You Scroll To The Bottom Of An Infinite Scrolling Page In A Playwright Test?](https://playwrightsolutions.com/how-do-you-scroll-to-the-bottom-of-an-infinite-scrolling-page-in-a-playwright-test/)
-- [How To Load a Custom Test Fixture or Setup Projects When Running Playwright Test Code Generator](https://playwrightsolutions.com/how-to-load-a-custom-test-fixture-or-setup-projects-when-running-playwright-test-code-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)

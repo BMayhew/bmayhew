@@ -31,11 +31,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIP: Playwright Trace Viewer - Copy as Playwright API Request](https://playwrightsolutions.com/tip-playwright-copy-as-playwright-api-request-button/)
 - [How to Run a Specific Spec File in Playwright Tests Sequentially](https://playwrightsolutions.com/how-to-run-a-specific-spec-file-playwright-tests-sequentially/)
 - [End of 2024 Announcements](https://playwrightsolutions.com/end-of-2024-announcements/)
 - [Playwright Login Test With Two Factor Authentication &lpar;2FA&rpar; Enabled &lpar;TOTP&rpar;](https://playwrightsolutions.com/playwright-login-test-with-2-factor-authentication-2fa-enabled/)
 - [Playwright Solutions Challenge: Debug and figure out why the video recording isn&#39;t in the HTML report?](https://playwrightsolutions.com/playwright-solutions-challenge-debug-and-figure-out-why-the-video-recording-isnt-in-the-html-report/)
-- [[Update v1.46] Is it possible to run only Playwright Tests that changed in GitHub actions on a pull request?](https://playwrightsolutions.com/update-v1-46-is-it-possible-to-run-only-playwright-tests-that-changed-in-github-actions-on-a-pull-request/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://playwrightsolutions.com)
